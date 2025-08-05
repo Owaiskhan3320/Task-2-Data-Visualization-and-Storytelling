@@ -25,4 +25,3 @@ It uses Python with Pandas, Matplotlib, and Seaborn to create charts that help u
 - Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 
-Feel free to edit or add new charts to explore more business angles!
